@@ -1,0 +1,18 @@
+{
+  "name": "migrate-greenkeeper-to-dependabot-cli",
+  "version": "1.0.0",
+  "description": "CLI to migrate all repositories for a given owner",
+  "bin": "./bin/migrate-greenkeeper-to-dependabot-cli.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "^2.5.2",
+    "@octokit/plugin-paginate-rest": "^2.2.0",
+    "js-yaml": "^3.13.1",
+    "octokit-create-pull-request": "^1.4.2",
+    "prettier": "^2.0.5",
+    "yargs": "^15.3.1"
+  }
+}
