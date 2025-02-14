@@ -8,7 +8,7 @@
   "author": "Gregor Martynus (https://twitter.com/gr2m)",
   "license": "MIT",
   "dependencies": {
-    "@octokit/core": "^4.2.4",
+    "@octokit/core": "^6.1.4",
     "@octokit/plugin-paginate-rest": "^2.2.0",
     "js-yaml": "^3.13.1",
     "octokit-create-pull-request": "^1.4.2",
