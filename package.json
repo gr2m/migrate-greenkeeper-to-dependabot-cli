@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/core": "^6.1.4",
-    "@octokit/plugin-paginate-rest": "^2.2.0",
+    "@octokit/plugin-paginate-rest": "^9.2.2",
     "js-yaml": "^3.13.1",
     "octokit-create-pull-request": "^1.4.2",
     "prettier": "^2.0.5",
